@@ -1,7 +1,7 @@
 //
 // Created by riggens on 2/12/26.
 //
-#include "print_primes.h"
+#include "../header/print_primes.h"
 
 
 int is_prime(const int n) {
