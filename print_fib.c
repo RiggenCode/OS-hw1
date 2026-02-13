@@ -1,7 +1,7 @@
 //
 // Created by riggens on 2/12/26.
 //
-#include "../header/print_fib.h"
+#include "print_fib.h"
 
 
 void print_fib(const int n) {

@@ -3,9 +3,9 @@ project(hw1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(hw1 src/main.c
-        src/main.c
-        src/print_fib.c
-        src/print_primes.c
-        header/print_fib.h
-        header/print_primes.h)
+add_executable(hw1 main.c
+        main.c
+        print_fib.c
+        print_primes.c
+        print_fib.h
+        print_primes.h)
