@@ -69,7 +69,6 @@ void bubble_sort_copy_ref(elem_t **head) {
             }
         }
     } while (swapped);
-    // implement me
 
 }
 
